@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sb/桌面/AprilTagCheck/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/apriltag_detector.dir/main.cpp.o -c /home/sb/桌面/AprilTagCheck/Get_Deep_position/main.cpp",
+  "file": "/home/sb/桌面/AprilTagCheck/Get_Deep_position/main.cpp"
+}
+]

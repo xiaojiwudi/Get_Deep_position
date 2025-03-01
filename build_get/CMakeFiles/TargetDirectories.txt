@@ -1,0 +1,3 @@
+/home/sb/桌面/AprilTagCheck/Get_Deep_position/build/CMakeFiles/apriltag_detector.dir
+/home/sb/桌面/AprilTagCheck/Get_Deep_position/build/CMakeFiles/edit_cache.dir
+/home/sb/桌面/AprilTagCheck/Get_Deep_position/build/CMakeFiles/rebuild_cache.dir
